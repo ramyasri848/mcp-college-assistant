@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is the CSE department?",
+        "answer": "The CSE department focuses on computer science and engineering education and related technical areas."
+    },
+    {
+        "question": "What does an MCP resource do?",
+        "answer": "An MCP resource provides data or information that an MCP client can read."
+    },
+    {
+        "question": "What does an MCP tool do?",
+        "answer": "An MCP tool exposes an action that an MCP client can request the MCP server to execute."
+    }
+]

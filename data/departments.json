@@ -1,0 +1,26 @@
+{
+    "CSE": {
+        "name": "Computer Science and Engineering",
+        "building": "CSE Department",
+        "description": "The Computer Science and Engineering department focuses on computer science, software engineering, algorithms, artificial intelligence, systems and related areas.",
+        "programs": [
+            "B.Tech Computer Science and Engineering"
+        ]
+    },
+    "ECE": {
+        "name": "Electronics and Communication Engineering",
+        "building": "ECE Department",
+        "description": "The Electronics and Communication Engineering department focuses on electronics, communication systems, embedded systems and related areas.",
+        "programs": [
+            "B.Tech Electronics and Communication Engineering"
+        ]
+    },
+    "ME": {
+        "name": "Mechanical Engineering",
+        "building": "Mechanical Engineering Department",
+        "description": "The Mechanical Engineering department focuses on mechanical systems, manufacturing, thermal engineering and related areas.",
+        "programs": [
+            "B.Tech Mechanical Engineering"
+        ]
+    }
+}

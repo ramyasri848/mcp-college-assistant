@@ -1,0 +1,33 @@
+{
+    "CSE": [
+        {
+            "code": "CS101",
+            "name": "Programming Fundamentals",
+            "semester": 1
+        },
+        {
+            "code": "CS201",
+            "name": "Data Structures and Algorithms",
+            "semester": 3
+        },
+        {
+            "code": "CS301",
+            "name": "Operating Systems",
+            "semester": 5
+        }
+    ],
+    "ECE": [
+        {
+            "code": "EC201",
+            "name": "Digital Electronics",
+            "semester": 3
+        }
+    ],
+    "ME": [
+        {
+            "code": "ME201",
+            "name": "Engineering Mechanics",
+            "semester": 3
+        }
+    ]
+}
