@@ -1,3 +1,6 @@
+Presentation:
+[Download/View the MCP Presentation](./MCP_PPT.pptx)
+
 # MCP College Assistant
 
 An AI-powered college assistant built using the Model Context Protocol (MCP).
